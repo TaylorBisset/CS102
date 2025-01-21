@@ -29,3 +29,10 @@ footer {
     text-align: center;
 }
 
+#wrapper {
+    width: 80%;
+    background-color: #FEFAEB;
+    margin-right: auto;
+    margin-left: auto;
+}
+
