@@ -31,6 +31,10 @@ nav {
     padding-bottom: 5px;
 }
 
+nav a {
+    text-decoration: none;
+}
+
 footer {
     background-color: #D2B48C;
     font-size: 0.60em;
