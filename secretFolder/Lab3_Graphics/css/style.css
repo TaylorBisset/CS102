@@ -27,6 +27,13 @@ h3 {
     color: #8C3826;
 }
 
+h4 {
+    background-color: #D2B48C;
+    font-size: 1.2em;
+    padding-left: 0.5em;
+    padding-bottom: 0.25em;
+}
+
 dt {
     color: #8C3826;
 }
