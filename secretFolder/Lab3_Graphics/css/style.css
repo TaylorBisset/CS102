@@ -8,6 +8,13 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+main {
+    display: block;
+    padding-left: 2em;
+    padding-right: 2em;
+    padding-bottom: 2em;
+}
+
 header {
     background-color: #D2B48C;
     padding-top: 5px;
