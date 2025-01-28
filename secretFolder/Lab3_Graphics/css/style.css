@@ -40,6 +40,8 @@ footer {
     font-size: 0.60em;
     font-style: italic;
     text-align: center;
+    padding: 1em;
+    border-top: solid 2px #8C3826;
 }
 
 #wrapper {
